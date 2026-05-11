@@ -1,0 +1,7 @@
+theia@theiadocker-grantvdm86:/home/project/final_project$ python3 test_emotion_detection.py
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.597s
+
+OK
+theia@theiadocker-grantvdm86:/home/project/final_project$ 
